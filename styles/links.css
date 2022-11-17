@@ -18,5 +18,10 @@ height: 200px;
 width: 200px;
 }
 .title_links{
-    justify-content: center;
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 2px darkred;
+    font-style: italic;
+    font-weight: bolder;
+
 }

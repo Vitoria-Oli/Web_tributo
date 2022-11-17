@@ -27,10 +27,12 @@ header{
 }
 .main_name{
     position: absolute;
-    font-size: 50px;
+    font-size: 100px;
     font-style: italic;
     font-weight: bolder;
-    margin-left: 45%;
+    margin-left: 38.5%;
+    margin-top: 0px;
     text-shadow: 0 0 20px #fefcc9, 2px -2px 3px #feec85, -4px -4px 5px #ffae34, 5px -10px 6px #ec760c, -5px -12px 8px #cd4606, 0 -15px 20px #973716, 2px -15px 20px #451b0e;
     color: #666;
+
 }
