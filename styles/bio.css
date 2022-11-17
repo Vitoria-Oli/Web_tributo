@@ -3,9 +3,9 @@
 }
 .biography{
     justify-content: flex-end;
-    height: 300px;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 20px;
     font-size: larger;
 
 }
