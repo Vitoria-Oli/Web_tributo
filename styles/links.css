@@ -1,7 +1,18 @@
 .links{
 display: flex;
-justify-content: space-around;
+/* justify-content: center; */
 margin-bottom: 40px;
+}
+.title_links{
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 2px darkred;
+    font-style: italic;
+    font-weight: bolder;
+}
+.img_links{
+    display: flex;
+    justify-content: space-around;
 }
 .faraon_img{
 width: 200px;
@@ -16,7 +27,4 @@ height: 200px;
 }
 .tmep_img{
 width: 200px;
-}
-.title_links{
-    text-align: center;
 }

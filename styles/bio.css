@@ -10,11 +10,11 @@
 
 }
 .tongo_BnW{
-    height: 20%;
+    float: left;
+    height: 50%;
     width: 20%;
     margin-left: 10px;
     margin-right: 10px;
-    justify-content: flex-start;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
 }
