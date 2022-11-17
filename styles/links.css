@@ -1,0 +1,19 @@
+.links{
+display: flex;
+justify-content: space-around;
+margin-bottom: 40px;
+}
+.faraon_img{
+width: 200px;
+
+}
+.mana_img{
+width: 200px;
+}
+.king_gizzard_img{
+width: 200px;
+height: 200px;
+}
+.tmep_img{
+width: 200px;
+}
