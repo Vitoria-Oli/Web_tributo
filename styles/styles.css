@@ -3,3 +3,8 @@
 @import '/styles/bio.css';
 @import '/styles/links.css';
 @import '/styles/footer.css';
+@import '/app.js';
+
+body{
+    background-image: radial-gradient(circle, #51ff00 50%, #8b00b6 100%)
+}

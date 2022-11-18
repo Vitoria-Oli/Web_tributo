@@ -1,0 +1,20 @@
+.bio{
+    display: flex;
+}
+.biography{
+    justify-content: flex-end;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    font-size: larger;
+
+}
+.tongo_BnW{
+    float: left;
+    height: 50%;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
