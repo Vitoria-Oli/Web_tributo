@@ -1,8 +1,9 @@
 footer{
-    position: relative;
-    width: 100%;
+    position: absolute;
+    width: 99%;
     height: 165px;
     margin-top: 20px;
+    margin-bottom: 0px;
 }
 .img_footer{
     width: 100%;
