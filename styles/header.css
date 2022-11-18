@@ -64,6 +64,10 @@ li a{
     border:1px solid #000;
     color:#000;
 }
-#full_menu{
+
+.open{
+    display: block;
+}
+.close{
     display: none;
 }
